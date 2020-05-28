@@ -1,0 +1,22 @@
+* {
+    background-color: royalblue;
+}
+
+#profile {
+    border-radius:50%;
+    width: 250px;
+    height: 250px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    height: 50px;
+    text-align: center;
+    width: 100%;
+    z-index: 1;
+    color: #ffffff;
+ }
