@@ -4,35 +4,3 @@
     padding: 0;
     border: 0;
 }
-
-#profile {
-    border-radius:50%;
-    width: 240px;
-    height: 240px;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-header {
-    background-color: sandybrown;
-    text-align: center;
-    font-size: 1.5em;
-    margin-top: 0px;
-    margin-bottom: 50px;
-    position: fixed top;
-    height: auto;
-}
-
-body {
-    background-color: steelblue;
-}
-
-footer {
-    position: absolute;
-    bottom: 0;
-    height: 50px;
-    text-align: center;
-    width: 100%;
-    z-index: 1;
-    color: #ffffff;
- }
